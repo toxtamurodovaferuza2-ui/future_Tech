@@ -107,4 +107,12 @@ Shifokorlar va o'rganuvchilar uchun etalon fonokardiogrammalar:
 *Ushbu tizim skrining vositasi bo'lib, yakuniy tibbiy tashxis hisoblanmaydi. Natijalarni har doim malakali shifokor baholashi shart.*
 
 ---
+
+## 🔗 Foydali Havolalar
+
+* **AI tahlil platformasi:** <https://fkg-tahlil-fonokardiogramma-ai.ai.studio>
+* **Loyiha hujjati (Google Drive):** <https://drive.google.com/file/d/1n-5WbRb821rvGJBdHf75qUpYBlq3bM_3/view?usp=drivesdk>
+* **GitHub repozitoriysi:** <https://github.com/toxtamurodovaferuza2-ui/futureTech1>
+
+---
 *Developed by FutureTech.*
